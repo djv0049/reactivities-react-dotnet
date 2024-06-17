@@ -1,0 +1,11 @@
+/Users/danielvanhoof/git/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/danielvanhoof/git/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/Users/danielvanhoof/git/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/danielvanhoof/git/demo/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll

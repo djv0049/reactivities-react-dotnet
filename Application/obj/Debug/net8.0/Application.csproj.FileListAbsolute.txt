@@ -1,0 +1,17 @@
+/Users/danielvanhoof/git/demo/Reactivities/Application/bin/Debug/net8.0/Application.deps.json
+/Users/danielvanhoof/git/demo/Reactivities/Application/bin/Debug/net8.0/Application.dll
+/Users/danielvanhoof/git/demo/Reactivities/Application/bin/Debug/net8.0/Application.pdb
+/Users/danielvanhoof/git/demo/Reactivities/Application/bin/Debug/net8.0/Domain.dll
+/Users/danielvanhoof/git/demo/Reactivities/Application/bin/Debug/net8.0/Persistence.dll
+/Users/danielvanhoof/git/demo/Reactivities/Application/bin/Debug/net8.0/Domain.pdb
+/Users/danielvanhoof/git/demo/Reactivities/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Application.dll
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/Application.pdb
+/Users/danielvanhoof/git/demo/Reactivities/Application/obj/Debug/net8.0/ref/Application.dll
